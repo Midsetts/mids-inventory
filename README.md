@@ -1,16 +1,18 @@
 # qb-Inventory
-LJ Inventory design edited QBCore
+LJ-Inventory Black CSS Edit QBCore
 
 # Previews
 ### Full inventory
-![Full inventory](https://cdn.discordapp.com/attachments/673205636875681813/933829042308776036/unknown.png)
+![Full inventory](![image](https://user-images.githubusercontent.com/100185331/186033324-ac402824-cf1f-46bd-97ab-812b23ea8749.png)
+)
 
-If you need any help join my discord server
 
 ## Discord
-- [Join Discord](https://discord.gg/XpdWyyT4Nm)
+- [Join Discord] https://discord.gg/Gwc8BxMR
 
-Made with Love❤️
+Enjoy. :))
+
+--mids
 
 # Original script:
 - https://github.com/loljoshie/lj-inventory

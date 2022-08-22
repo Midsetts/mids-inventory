@@ -3,8 +3,8 @@ LJ-Inventory Black CSS Edit QBCore
 
 # Previews
 ### Full inventory
-![Full inventory](![image](https://user-images.githubusercontent.com/100185331/186033324-ac402824-cf1f-46bd-97ab-812b23ea8749.png)
-)
+![image](https://user-images.githubusercontent.com/100185331/186033509-d02d6a9e-a930-4808-baa9-680e0457c56e.png)
+
 
 
 ## Discord
